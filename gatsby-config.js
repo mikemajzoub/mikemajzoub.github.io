@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `CHANGE 4 Gatsby Starter Blog`,
+    title: `CHANGE 5 Gatsby Starter Blog`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
