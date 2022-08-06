@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `CHANGE 5 Gatsby Starter Blog`,
+    title: `Hello, Internet!`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mike Majzoub`,
+      summary: `who lives in Boston.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://wwww.mikemajzoub.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `mikemajzoub`,
     },
   },
   plugins: [

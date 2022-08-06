@@ -44,11 +44,40 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Along with writing, <strong>{author.name}</strong> likes to
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a
+            href={`https://www.linkedin.com/in/mikemajzoub/`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            build creativity software
           </a>
+          ,{` `}
+          <a
+            href={`https://www.avidlypresent.com`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            take photos
+          </a>
+          ,{` `}
+          <a
+            href={`https://soundcloud.com/mikemajzoub/sets/song-drafts`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            write songs
+          </a>
+          , and{` `}
+          <a
+            href={`https://www.twitter.com/mikemajzoub/`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            tweet
+          </a>
+          .{` `} Twitter is the best way to contact him.
         </p>
       )}
     </div>
