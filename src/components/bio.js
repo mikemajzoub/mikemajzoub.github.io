@@ -44,14 +44,14 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Along with writing, <strong>{author.name}</strong> likes to
+          Along with writing, I enjoy
           {` `}
           <a
             href={`https://www.linkedin.com/in/mikemajzoub/`}
             target="_blank"
             rel="noopener noreferrer"
           >
-            build creativity software
+            building creativity software
           </a>
           ,{` `}
           <a
@@ -59,7 +59,7 @@ const Bio = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            take photos
+            taking photos
           </a>
           ,{` `}
           <a
@@ -67,7 +67,7 @@ const Bio = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            write songs
+            writing songs
           </a>
           , and{` `}
           <a
@@ -75,9 +75,9 @@ const Bio = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            tweet
+            tweeting
           </a>
-          .{` `} Twitter is the best way to contact him.
+          .{` `} Twitter is the best way to contact me.
         </p>
       )}
     </div>
