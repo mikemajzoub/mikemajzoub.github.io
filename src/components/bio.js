@@ -61,7 +61,7 @@ const Bio = () => {
           >
             taking photos
           </a>
-          ,{` `}
+          , and{` `}
           <a
             href={`https://soundcloud.com/mikemajzoub/sets/song-drafts`}
             target="_blank"
@@ -69,15 +69,15 @@ const Bio = () => {
           >
             writing songs
           </a>
-          , and{` `}
+          . {` `}
           <a
             href={`https://www.twitter.com/mikemajzoub/`}
             target="_blank"
             rel="noopener noreferrer"
           >
-            tweeting
+            Twitter
           </a>
-          .{` `} Twitter is the best way to contact me.
+          {` `} is the best way to contact me.
         </p>
       )}
     </div>
