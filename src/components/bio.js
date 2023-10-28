@@ -55,7 +55,7 @@ const Bio = () => {
           </a>
           ,{` `}
           <a
-            href={`https://www.avidlypresent.com`}
+            href={`https://500px.com/p/mikemajzoub?view=photos`}
             target="_blank"
             rel="noopener noreferrer"
           >
