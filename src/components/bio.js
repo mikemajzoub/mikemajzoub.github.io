@@ -51,7 +51,7 @@ const Bio = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            building creativity software
+            making creativity software
           </a>
           ,{` `}
           <a
