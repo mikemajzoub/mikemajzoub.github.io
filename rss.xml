@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://wwww.mikemajzoub.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 31 Oct 2023 16:13:22 GMT</lastBuildDate><item><title><![CDATA[How to Plan a Lesson]]></title><description><![CDATA[Introduction The aim of this article is to provide new teachers with a framework for planning effective lessons. The methodology presented…]]></description><link>https://wwww.mikemajzoub.com/how-to-plan-a-lesson/</link><guid isPermaLink="false">https://wwww.mikemajzoub.com/how-to-plan-a-lesson/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1c621f0c2b036dbd9323140ccc31ab4c/c1b63/howToPlanALessonHero.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 16.455696202531648%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAkElEQVQI11XLQQqFIBAA0O5/l27gsgR3FmqhNA2BuDNaRGU1Bv7Vf/tXdV3HGENE51xd10qpdV1jjMdxeO8BwBfGGOec1nocR2vtsizTNFVCCGNM27acc8YYAHDOrbXDMDRNM89zLvq+l1ICACKGEKSUWuvquq6c83me27bt+05Ez/MQ0fu+VPzyfd8ppfzvA3PZoNvmv1OHAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;How To Plan A Lesson Hero&quot;
+        title=&quot;How To Plan A Lesson Hero&quot;
+        src=&quot;/static/1c621f0c2b036dbd9323140ccc31ab4c/f058b/howToPlanALessonHero.png&quot;
+        srcset=&quot;/static/1c621f0c2b036dbd9323140ccc31ab4c/c26ae/howToPlanALessonHero.png 158w,
+/static/1c621f0c2b036dbd9323140ccc31ab4c/6bdcf/howToPlanALessonHero.png 315w,
+/static/1c621f0c2b036dbd9323140ccc31ab4c/f058b/howToPlanALessonHero.png 630w,
+/static/1c621f0c2b036dbd9323140ccc31ab4c/40601/howToPlanALessonHero.png 945w,
+/static/1c621f0c2b036dbd9323140ccc31ab4c/c1b63/howToPlanALessonHero.png 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The aim of this article is to provide new teachers with a framework for planning effective lessons.&lt;/p&gt;
+&lt;p&gt;The methodology presented below is effective across all ages and subjects. It is derived from my own experiences in the classroom, professional training, graduate coursework, and insights from veteran teachers.&lt;/p&gt;
+&lt;h2&gt;Identify Purpose&lt;/h2&gt;
+&lt;p&gt;Precisely identify the skill your students will gain after completing the lesson.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;Students will be able to use the Pythagorean Theorem to calculate the length of a right triangle’s hypotenuse if provided with a diagram of a triangle that includes the lengths of its other two sides.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Measure Success&lt;/h2&gt;
+&lt;p&gt;Create a short exit quiz for students to independently take at the end of the lesson to measure how effective the lesson was. Complete this exit quiz yourself so that you have a clear, immutable idea of what mastery should look like.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;Calculate the length of the triangle’s hypotenuse using the Pythagorean Theorem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 349px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cd661add123da8456113d4ae00053aaa/e9bf8/exitQuiz.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.65822784810127%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAABdklEQVQ4y4VS2YoCQQzs//8SH31TlPHCGQ/wQBFREbzwScQbdcaupbLb2V5XNBCmM0lXJ1Ux+DYLz6y1+n08HhrTnuNms4kwDO1PLjbWz74A9WOCOZtMJigWi2i32yiVSlLCvHnX4e12w3A4xP1+19xqtUKhUECn09FHoiiSC0mSWPOqMwd4uVwwGo3kvNlsUKlUUK/XcTqdtP54PKJarWpsnkEcT87O5zMajYaAEdRZkiTyJTh5nE6nWK/XMD6YTzgvdLtdGW+5XP4TxdURkA/m83n0+/3fDv2uOGYQBBiPxy/V9QE5chiGiOMY1+sVxrVOm8/nAtTr9fQBf3V89/O1Wk3P0uF2uxViW63WH0U/GTuKogjZbFZpMrlcDplMBovFQtomJ7vdDofDQXy/3+vZOfOsJVg6nRb+FDCVSslyUil2ySLfuSbkiO7/d0KQosFgoDybT2NRYS4xl/ydOZFEFCI/uxOrXC7LWLPZTMfya1zsRPkC1Prc1nk2ceUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Exit Quiz&quot;
+        title=&quot;Exit Quiz&quot;
+        src=&quot;/static/cd661add123da8456113d4ae00053aaa/e9bf8/exitQuiz.png&quot;
+        srcset=&quot;/static/cd661add123da8456113d4ae00053aaa/c26ae/exitQuiz.png 158w,
+/static/cd661add123da8456113d4ae00053aaa/6bdcf/exitQuiz.png 315w,
+/static/cd661add123da8456113d4ae00053aaa/e9bf8/exitQuiz.png 349w&quot;
+        sizes=&quot;(max-width: 349px) 100vw, 349px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Mr. Majzoub&apos;s Solution:
+
+a² + b² = c²
+8² + 15²  = c²
+64 + 225 = c²
+289 = c²
+√289 = √c²
+17 = c
+The length of the triangle’s hypotenuse is 17.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Identify Microskills&lt;/h2&gt;
+&lt;p&gt;Every skill depends on the mastery of multiple microskills. You will likely present some of these microskills for the first time in this lesson, while others will have been presented earlier in your course or in prerequisite courses. Identify the key microskills your students will need to know in order to ace your exit quiz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;To calculate the hypotenuse via the Pythagorean Theorem:
+    - Recall the Pythagorean Theorem
+    - Know which triangle sides represent which variables
+    - Solve for a variable
+    - Square a number
+    - Take the square root of a number
+    - Add
+    - Subtract
+    - Recall the order of operations (PEMDAS)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Decide What To Teach&lt;/h2&gt;
+&lt;p&gt;Label each dependent microskill as either “mastered” or “unmastered”.&lt;/p&gt;
+&lt;p&gt;Consider a microskill to be “mastered” if you estimate an “acceptable” percentage of your students have mastered it. This decision involves balancing the cost of losing students during the lesson due to their lack of mastery against slowing down students who have already mastered it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;Let’s assume our students have mastered all microskills except for the higher-level lesson skill of calculating the hypotenuse via the Pythagorean Theorem.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Design The Lesson Introduction&lt;/h2&gt;
+&lt;p&gt;Your lesson introduction will consist of a hook and an overview.&lt;/p&gt;
+&lt;h3&gt;The Hook&lt;/h3&gt;
+&lt;p&gt;Connect the current lesson with prior lessons and make the case for why students should be motivated to learn today. Though ideally you’ll appeal to your students’ intrinsic motivations, extrinsic motivations are also effective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;“Yesterday we briefly touched on how the Pythagorean Theorem allows us to calculate any third side of a right triangle if we are given the other two sides. Today we’re going to begin actually using this theorem to calculate the length of a right triangle’s hypotenuse. I will be showing off the work we do today at Back-To-School Night next month, so I’m excited to see what each of you create and can’t wait to share it with your parents and guardians.”&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;The Outline&lt;/h3&gt;
+&lt;p&gt;Succinctly review the lesson’s outline with the class to familiarize your students with the learning journey ahead and demonstrate that you’ve done the upfront work on your end to create a thoughtful, high-quality lesson for them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;“First, I’m going to spend 6 minutes demonstrating exactly what each of you will be doing independently in the quiz at the end of this lesson. Next, we’ll break out into partners and small groups for 24 minutes to explore a visual way of understanding the Pythagorean theorem. After that, we’ll have 12 minutes to practice for our quiz. Last, we’ll have 6 minutes to take our quiz. If there’s extra time at the end, we can begin working on our homework early.”&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Create Your Lesson Body&lt;/h2&gt;
+&lt;p&gt;Your lesson body will consist of three parts: a demonstration, a guided practice, and an independent practice. Each part will gradually release more responsibility to your students as they gain mastery of the skill.&lt;/p&gt;
+&lt;h3&gt;Demonstration&lt;/h3&gt;
+&lt;p&gt;Concisely demonstrate the skill to your students, speaking aloud each action as you take it. Though your students may not follow every detail of this demonstration, throughout the lesson they’ll recall it to connect what they’re doing at any given moment to the overall lesson.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;Refer to the exit quiz above. Demonstrate solving a similar problem with a different triangle to your class.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Guided Practice&lt;/h3&gt;
+&lt;p&gt;Guided practice offers your students the space to explore, puzzle through, and master the skill. If your students do not have enough opportunity to struggle to make connections on their own during their learning process, they risk not understanding the skill at the deeper levels of comprehension required for them to retain and flexibly leverage it. However, if your students struggle too much they will become frustrated and will not master the skill efficiently enough during your lesson time. Therefore, your goal is to offer your students a good balance between struggle and support.&lt;/p&gt;
+&lt;p&gt;Group activities will allow your students to take ownership of their learning while also having the opportunity to receive support from their peers when they get stuck.&lt;/p&gt;
+&lt;p&gt;During guided practice, take the opportunity to individually remediate struggling students who have not yet mastered the microskills you had labeled as “acceptably” mastered when originally planning the lesson. When appropriate, also provide your stronger students with more challenging activities during this time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Refer to the work on the whiteboard from Mr. Majzoub’s demonstration and use it as a guide to solve for the hypotenuse of the triangle below:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 299px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2dd864c2b5c517a0baaceafb264c13ad/aeb78/guidedPractice1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.41772151898735%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlklEQVQ4y41UScvCQAydn+5PEY9eVERc8GQRF1QEd4W64MEeWnABwerk40UzTmvRLxCcmUzevLykKnqapi+mtWaX9f1+5/XtdqNisUie5+lXLFRxMDvx8XiYPQx7Mdd1qVwuUz6fp9VqxSmIqySGNkicFazRaFCtVuP1crmE69eDWiWVJ2yGwyGdz2cTOxwOVCgUaDqdmjPcAajkqG969Xo9U2a326VSqUSXy4X3YRjy72g0otlsZvLUL+GPxyML3+/3zaOIyUMAXCwW1G63yff9J6ANZgs/Ho+5RFyUWPwe7oBhq9ViSVQSq+v1SpVKhZrNZoSVXY0NKJqakm1WGIFcLkf7/f4jOWmEADafz99NkZchcr1eZxfBMbiil+04kzw0DiVHuhwEAVWrVcPqP4bHstks+2QyeQNiHFKpFDmOwx1DtzqdDo8JHOvBYMBMsJY9BjudTjMR0ZABPc+j3W7H7PA5bTabiOMcwEjCPTu2Xq9pu90aiSJz+M0ymQwn//oDgSn7T8B2+wxzeDqdIrMoDYp/EH/XPHWCGo8DygAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Guided Practice: Solve For The Hypotenuse&quot;
+        title=&quot;Guided Practice: Solve For The Hypotenuse&quot;
+        src=&quot;/static/2dd864c2b5c517a0baaceafb264c13ad/aeb78/guidedPractice1.png&quot;
+        srcset=&quot;/static/2dd864c2b5c517a0baaceafb264c13ad/c26ae/guidedPractice1.png 158w,
+/static/2dd864c2b5c517a0baaceafb264c13ad/aeb78/guidedPractice1.png 299w&quot;
+        sizes=&quot;(max-width: 299px) 100vw, 299px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Compare your work with a partner.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Once you and your partner are confident that you’ve solved for the hypotenuse correctly, review the image below and discuss how you think it relates to the Pythagorean Theorem:&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/873328e407179fcd0afad085f915a238/41be6/guidedPractice2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 110.12658227848102%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB2klEQVQ4y51UR47DMAzU//8UILnkmCDtkN5779XmYhhQobm2s1gCsiRLGg6rI6IwDMP3570hkfl8TtPplNdBEJA9VyI/A/fBCf0jzN1ul8bjMXU6Hdrv9xGwNFBnGeJxvV6n3W7nwRuNRoShDI/02YROHwyHQ2ammUIAjv9/MJ0Z0uVyYRar1UprjQAMBgN/nma6W6/X1Gw26fF4REyya0jcPTvcZrOhfr//yxwLDDmdTtRqtShJGPCbOQL8er14v1gsqN1us5sOhwMdj0eez+fzx4cQ+FCbE+ej5/NJ5XKZcrkc5yiCOBqNeNRqNbrf7+S0OdBsfXe9XpnNcrmkarXKDJGfViaTCd9z2nf4OZvNeC0mgjW0a2XY23tgC+XOmodIQhNku93yYwROBAoALiREwJoZWsDb7caRBHClUvHg8I/4Op/P+7tQAJZIfG+yTWLUbyaT4ejjYqlUokKhQL1ej4rFImWzWX+GfzLjvdM5JMDwD/whgrU0CDEvSWIB0bLgP81a7sB0sEmsFJvpAqhbllYGn0ll2dKMMEwD1PO/AXU/1M0XJqcC6uaoAVE5SYIIG0Df9p1GEkDUKXIR0Ub1yIAisEOOxrS6MJEhzIPJcQPRl2S3DOHiH31ar+8fJKjmAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Guided Practice: Triangle Surrounded By Squares&quot;
+        title=&quot;Guided Practice: Triangle Surrounded By Squares&quot;
+        src=&quot;/static/873328e407179fcd0afad085f915a238/f058b/guidedPractice2.png&quot;
+        srcset=&quot;/static/873328e407179fcd0afad085f915a238/c26ae/guidedPractice2.png 158w,
+/static/873328e407179fcd0afad085f915a238/6bdcf/guidedPractice2.png 315w,
+/static/873328e407179fcd0afad085f915a238/f058b/guidedPractice2.png 630w,
+/static/873328e407179fcd0afad085f915a238/41be6/guidedPractice2.png 638w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Join another pair of partners and see if the four of you agree on how the image relates to the Pythagorean Theorem.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Within you group of four, draw images to visualize each action you took when solving for the hypotenuse with the Pythagorean Theorem. Each step should have its own frame, just like a comic book does.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Step 6:&lt;/strong&gt; Once everyone in your group is confident they know what every image represents, find a new partner from a different group and take turns quizzing one another about your different images and guessing which images relate to which steps. If you find yourselves uncertain about anything, ask Mr. Majzoub to join your conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Independent Practice&lt;/h2&gt;
+&lt;p&gt;Independent practice allows your students a chance to prepare for the upcoming exit quiz. Though students will not be working with others during this time, they will have the opportunity to ask for your assistance if they’d like guidance gaining some final understanding before the quiz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;The independent practice activity will mirror the exit quiz example, with an appropriate number of exercises to fill the allotted time.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Review Your Lesson Plan&lt;/h2&gt;
+&lt;p&gt;First, carefully review your lesson’s exit quiz. With it fresh in your mind, revisit the entirety of your lesson plan, and remove anything not laser-focused on enabling students to ace the quiz.&lt;/p&gt;
+&lt;p&gt;Next, verify that you estimate your lesson sections will roughly take the following amount of time:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;- Introduction: 10%
+- Demonstration: 10%
+- Guided Practice: 40%
+- Independent Practice: 20%
+- Exit Ticket: 10%
+- Miscellaneous: 10%&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Teach Your Lesson&lt;/h2&gt;
+&lt;p&gt;Your lesson is planned and ready. Go teach it!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to Busk]]></title><description><![CDATA[Introduction To conquer shyness, I began busking as an electric cellist in high school and have kept it at it with some regularity since…]]></description><link>https://wwww.mikemajzoub.com/how-to-busk/</link><guid isPermaLink="false">https://wwww.mikemajzoub.com/how-to-busk/</guid><pubDate>Fri, 01 Feb 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e811fd39764967adc11336a2ea317137/c1b63/howToBuskHero.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 16.455696202531648%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAc0lEQVQI12XOuw4BYRQE4O93iS0IDdYlFCIanScgkYhKIVF5CO/fyMZsZZpJZs6cGbjghRHWWGKPgx8afuKBD27RK9ThglPrHfN0hw4m2KKf4Bx3nPFO4Sw3G6wwxQJXCZa0Ff/oYYhxytp1VQY0fjf64Av59AaAGWLJfgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;How To Busk Hero&quot;
+        title=&quot;How To Busk Hero&quot;
+        src=&quot;/static/e811fd39764967adc11336a2ea317137/f058b/howToBuskHero.png&quot;
+        srcset=&quot;/static/e811fd39764967adc11336a2ea317137/c26ae/howToBuskHero.png 158w,
+/static/e811fd39764967adc11336a2ea317137/6bdcf/howToBuskHero.png 315w,
+/static/e811fd39764967adc11336a2ea317137/f058b/howToBuskHero.png 630w,
+/static/e811fd39764967adc11336a2ea317137/40601/howToBuskHero.png 945w,
+/static/e811fd39764967adc11336a2ea317137/c1b63/howToBuskHero.png 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;To conquer shyness, I began busking as an electric cellist in high school and have kept it at it with some regularity since then. &lt;strong&gt;The purpose of this article is to offer some tips for other performance artists considering putting on shows in their cities.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Where you perform matters more than the performance itself.&lt;/strong&gt; Popular busking locations are typically located in a city’s major tourist and commerce centers, and you’ll find other performers here regularly. While you can generally be confident with the quality of such locations, fierce competition makes them difficult prizes to obtain. Furthermore, once you have one, you’ll find yourself constantly defending it from other buskers. Therefore, knowing how to discover your own busking locations is essential. Over the years, I’ve developed the following methods for finding hidden gems in whichever city I’m in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Examine maps of the city’s major tour bus routes. Learn where these buses begin and end their tours, along with which stops they make along the way. If you can find a spot where tourists are regularly loaded or unloaded, you’ll consistently have a new crowd of people to entertain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use &lt;a href=&quot;https://www.yelp.com&quot;&gt;Yelp&lt;/a&gt; filters to see clusters of expensive restaurants and hotels. Cross-reference your findings with what &lt;a href=&quot;https://www.zillow.com&quot;&gt;Zillow&lt;/a&gt; shows to be the city’s highest-income neighborhoods. If you perform in these areas, you’ll benefit from having a regular stream of rich people leisurely passing by.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use a crime map to ensure your new performance spot is relatively safe.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After you find a few spots that seem promising from your online research, scout them out on both the weekends and weekdays at multiple times throughout the day. What may look like an abandoned area at night might actually become crowded with foodtrucks at lunch time. Or, perhaps a particularly popular commuter train arrives at 7:37 AM every morning in an otherwise-quiet station.&lt;/p&gt;
+&lt;p&gt;Additionally, ensure that you won’t bother anyone in the location you’re investigating: the place shouldn’t be too close to a shop, outdoor restaurant, or residence, and it must be big enough so that you (and your future crowd) won’t create a hazard on the sidewalk.&lt;/p&gt;
+&lt;h2&gt;Your Act&lt;/h2&gt;
+&lt;p&gt;While there is a correlation between how talented you are and how financially successful you are as a busker, it’s not as strong as you might think. Rather, I’ve found following the guidelines below are far more important than being a virtuoso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Make eye contact and smile.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be well-groomed.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Engage your audience.&lt;/strong&gt; Talk with them. Invite them to take selfies with you as you perform. Also, kids make great assistants.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Money&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No one owes you anything.&lt;/strong&gt; Regardless of whether or not someone loves your performance, he owes you nothing in return for your entertainment. Accept this and focus on brightening the lives of your audience, regardless of whether or not they pay.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Begin your performance with a seed of your own $3 placed in the case.&lt;/strong&gt; This acts as a visual reminder to people that they have the option of supporting you financially in exchange for the entertainment you’re providing them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Once you have about 12 bills in your case, pocket them (while leaving a new seed).&lt;/strong&gt; Too much visible money makes you a target for theft, and it also leads to a lower overall hourly rate due to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Free-rider_problem&quot;&gt;free rider problem&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Beware the wind.&lt;/strong&gt; Ensure your money container or instrument case is wind-proof and that dollar bills won’t blow out from it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;You now know what you need to know. Fill your heart with courage, get out there, and give it your best shot!&lt;/p&gt;</content:encoded></item></channel></rss>
